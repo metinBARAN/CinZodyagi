@@ -8,7 +8,7 @@ public class Main {
 
         Scanner inp=new Scanner(System.in);
 
-        System.out.println("Yasinizi giriniz:");
+        System.out.println("Dogum Yilinizi Giriniz:");
         dogumYili=inp.nextInt();
 
         cinZ=dogumYili%12;
